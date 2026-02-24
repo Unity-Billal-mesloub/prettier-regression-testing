@@ -2,7 +2,7 @@
 
 ## Motivation
 
-https://github.com/Unity-Billal-mesloub/prettier/issues/9290
+https://github.com/Unity-Billal-mesloub/prettier/issues
 
 We run Prettier on other projects prior to release to check for regressions. (See [Release Checklist](https://github.com/Unity-Billal-mesloub/prettier/wiki/Release-Checklist))
 
