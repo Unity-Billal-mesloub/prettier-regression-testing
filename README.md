@@ -2,14 +2,14 @@
 
 ## Motivation
 
-https://github.com/prettier/prettier/issues/9290
+https://github.com/Unity-Billal-mesloub/prettier/issues/9290
 
-We run Prettier on other projects prior to release to check for regressions. (See [Release Checklist](https://github.com/prettier/prettier/wiki/Release-Checklist))
+We run Prettier on other projects prior to release to check for regressions. (See [Release Checklist](https://github.com/Unity-Billal-mesloub/prettier/wiki/Release-Checklist))
 
 We used to do that manually.
 
-- https://github.com/sosukesuzuki/eslint-plugin-vue/pull/1
-- https://github.com/sosukesuzuki/typescript-eslint/pull/1
+- https://github.com/Unity-Billal-mesloub/eslint-plugin-vue/pull/1
+- https://github.com/Unity-Billal-mesloub/typescript-eslint/pull/1
 
 This is a lot of work, so we use GitHub Actions to automate it.
 
@@ -33,7 +33,7 @@ Required.
 There are 2 ways to specify.
 
 1. Versions or repository name + ref (e.g. `2.0.0`, `1.7.1`, or `sosukesuzuki/prettier#2f3fc241f8cb1867a0a3073ceac9d662e4b25fab`), it's installed directly with `yarn add`, so anything that [`yarn add`](https://yarnpkg.com/cli/add) allows
-2. Pull Request number on [prettier/prettier](https://github.com/prettier/prettier) repository (e.g. `#110168`).
+2. Pull Request number on [prettier/prettier](https://github.com/Unity-Billal-mesloub/prettier) repository (e.g. `#110168`).
 
 ```
 RUN #110168
